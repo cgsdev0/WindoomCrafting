@@ -1,0 +1,6 @@
+name: WindoomCrafting
+version: 1.0-SNAPSHOT
+main: com.shaneschulte.minecraft.windoomcrafting.WindoomCrafting
+author: CoolGamrSms
+api-version: 1.13
+depends: [SimpleClans, LuckPerms, PiggyBack, WorldGuard]
